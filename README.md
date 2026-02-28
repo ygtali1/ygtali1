@@ -2,9 +2,7 @@
 
 **Computer Engineering Student @ Ege University | AI & Machine Learning**
 
-I focus on building machine learning systems from the ground up — from implementing 
-Transformer architecture in PyTorch to developing RAG pipelines and computer vision 
-modules for autonomous vehicles.
+I focus on building AI systems from the ground up — from implementing Transformer architecture in PyTorch and training language models from scratch, to developing RAG pipelines and applying deep learning and classical machine learning techniques on real-world problems.
 
 ---
 
