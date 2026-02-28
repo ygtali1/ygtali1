@@ -28,7 +28,7 @@ I focus on building AI systems from the ground up — from implementing Transfor
 
 - **[LLM From Scratch](https://github.com/ygtali1/llm-from-scratch)** — GPT-style Transformer implemented entirely in PyTorch. Includes multi-head attention, RoPE, layer norm, and top-k/top-p/temperature sampling.
 
-- **TEKNOFEST 2025 — IDA (Unmanned Marine Vehicle)** — CNN-based object detection and image processing for an autonomous surface vehicle. Built with TensorFlow as part of a multidisciplinary engineering team.
+
 
 - **Stock Market Prediction** — LSTM + XGBoost ensemble for time-series forecasting with end-to-end data preprocessing and model evaluation.
 
